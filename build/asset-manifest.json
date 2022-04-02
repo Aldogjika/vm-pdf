@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff8df5dc.chunk.css",
-    "main.js": "/static/js/main.1d99255e.chunk.js",
-    "main.js.map": "/static/js/main.1d99255e.chunk.js.map",
+    "main.css": "/static/css/main.7eda4db3.chunk.css",
+    "main.js": "/static/js/main.5a402792.chunk.js",
+    "main.js.map": "/static/js/main.5a402792.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f7969a42.js",
     "runtime-main.js.map": "/static/js/runtime-main.f7969a42.js.map",
     "static/js/2.d4f96d8d.chunk.js": "/static/js/2.d4f96d8d.chunk.js",
     "static/js/2.d4f96d8d.chunk.js.map": "/static/js/2.d4f96d8d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.23acbd3960c35b715f5a009c17472cca.js": "/precache-manifest.23acbd3960c35b715f5a009c17472cca.js",
+    "precache-manifest.5719b8adf1546f9f007fd4e7f773d6d8.js": "/precache-manifest.5719b8adf1546f9f007fd4e7f773d6d8.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.ff8df5dc.chunk.css.map": "/static/css/main.ff8df5dc.chunk.css.map",
+    "static/css/main.7eda4db3.chunk.css.map": "/static/css/main.7eda4db3.chunk.css.map",
     "static/js/2.d4f96d8d.chunk.js.LICENSE.txt": "/static/js/2.d4f96d8d.chunk.js.LICENSE.txt",
     "static/media/Netflix_Logo_RGB.png": "/static/media/Netflix_Logo_RGB.8562b656.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f7969a42.js",
     "static/js/2.d4f96d8d.chunk.js",
-    "static/css/main.ff8df5dc.chunk.css",
-    "static/js/main.1d99255e.chunk.js"
+    "static/css/main.7eda4db3.chunk.css",
+    "static/js/main.5a402792.chunk.js"
   ]
 }

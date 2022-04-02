@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "./axios";
 import "./Row.css";
+import FlipMove from "react-flip-move";
 
 const base_url = "http://image.tmdb.org/t/p/original/";
 
@@ -43,7 +44,7 @@ function Row({ title, imgUrl, description }) {
         <div className="row__bannerOverlay"></div>
         <div className="row__bannerButtons">
           <button className="row__bannerButton" onClick={handleClick}>
-            READ MORE
+            {readMore ? "HIDE READ MORE" : "READ MORE"}
           </button>
         </div>
       </div>
