@@ -73,3 +73,9 @@
     #111
   );
 }
+
+@media only screen and (max-width: 600px) {
+  .banner__title {
+    font-size: 2rem;
+  }
+}
