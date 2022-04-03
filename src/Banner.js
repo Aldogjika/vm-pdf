@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from "react";
 import axios from "./axios";
 import "./Banner.css";
+import Pdf from "./assets/next.pdf";
+import { saveAs } from "file-saver";
 
 const base_url = "http://image.tmdb.org/t/p/original";
 
@@ -26,6 +28,10 @@ function Banner({ fetchUrl }) {
     return str?.length > n ? str.substr(0, n - 1) + "..." : str;
   }
 
+  const saveFile = () => {
+    saveAs(Pdf, "next-generation.pdf");
+  };
+
   console.log(movie);
 
   return (
@@ -44,7 +50,9 @@ function Banner({ fetchUrl }) {
         </h1>
 
         <div className="banner__buttons">
-          <button className="banner__button">Download PDF</button>
+          <button className="banner__button" onClick={saveFile}>
+            Download PDF
+          </button>
           {/* <button className="banner__button">My List</button> */}
         </div>
 
