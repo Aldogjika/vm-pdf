@@ -45,7 +45,7 @@ function Row({ title, imgUrl, description }) {
         <div className="row__bannerOverlay"></div>
         <div className="row__bannerButtons">
           <button className="row__bannerButton" onClick={handleClick}>
-            {readMore ? "HIDE READ MORE" : "READ MORE"}
+            {readMore ? "UMSCHALTEN" : "WEITERLESEN"}
           </button>
         </div>
       </div>
