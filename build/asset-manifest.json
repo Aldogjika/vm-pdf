@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.0d281d21.chunk.css",
-    "main.js": "/static/js/main.a1291b5c.chunk.js",
-    "main.js.map": "/static/js/main.a1291b5c.chunk.js.map",
+    "main.js": "/static/js/main.fbe6add3.chunk.js",
+    "main.js.map": "/static/js/main.fbe6add3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f7969a42.js",
     "runtime-main.js.map": "/static/js/runtime-main.f7969a42.js.map",
-    "static/js/2.7dfbd781.chunk.js": "/static/js/2.7dfbd781.chunk.js",
-    "static/js/2.7dfbd781.chunk.js.map": "/static/js/2.7dfbd781.chunk.js.map",
+    "static/js/2.3848aa76.chunk.js": "/static/js/2.3848aa76.chunk.js",
+    "static/js/2.3848aa76.chunk.js.map": "/static/js/2.3848aa76.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.338b936763a3df39f01292a41b5a0482.js": "/precache-manifest.338b936763a3df39f01292a41b5a0482.js",
+    "precache-manifest.4db5028f86c085fbe8b4595b03440703.js": "/precache-manifest.4db5028f86c085fbe8b4595b03440703.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.0d281d21.chunk.css.map": "/static/css/main.0d281d21.chunk.css.map",
-    "static/js/2.7dfbd781.chunk.js.LICENSE.txt": "/static/js/2.7dfbd781.chunk.js.LICENSE.txt",
+    "static/js/2.3848aa76.chunk.js.LICENSE.txt": "/static/js/2.3848aa76.chunk.js.LICENSE.txt",
     "static/media/Netflix_Logo_RGB.png": "/static/media/Netflix_Logo_RGB.8562b656.png",
     "static/media/logo-2.png": "/static/media/logo-2.a869752b.png",
+    "static/media/next.pdf": "/static/media/next.25e6941e.pdf",
     "static/media/section-1.png": "/static/media/section-1.de0ac793.png",
     "static/media/section-2.png": "/static/media/section-2.6d609d9c.png",
     "static/media/section-3.png": "/static/media/section-3.f1deb77d.png",
@@ -23,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f7969a42.js",
-    "static/js/2.7dfbd781.chunk.js",
+    "static/js/2.3848aa76.chunk.js",
     "static/css/main.0d281d21.chunk.css",
-    "static/js/main.a1291b5c.chunk.js"
+    "static/js/main.fbe6add3.chunk.js"
   ]
 }
