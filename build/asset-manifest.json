@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.c9c44d79.chunk.css",
+    "main.css": "/static/css/main.0d281d21.chunk.css",
     "main.js": "/static/js/main.1200a353.chunk.js",
     "main.js.map": "/static/js/main.1200a353.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f7969a42.js",
@@ -8,16 +8,16 @@
     "static/js/2.d4f96d8d.chunk.js": "/static/js/2.d4f96d8d.chunk.js",
     "static/js/2.d4f96d8d.chunk.js.map": "/static/js/2.d4f96d8d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.08fe1af21617b3ad2c9a4a6f62a295db.js": "/precache-manifest.08fe1af21617b3ad2c9a4a6f62a295db.js",
+    "precache-manifest.2e0ff8ccbaeb879cd00565f95d7b64a4.js": "/precache-manifest.2e0ff8ccbaeb879cd00565f95d7b64a4.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.c9c44d79.chunk.css.map": "/static/css/main.c9c44d79.chunk.css.map",
+    "static/css/main.0d281d21.chunk.css.map": "/static/css/main.0d281d21.chunk.css.map",
     "static/js/2.d4f96d8d.chunk.js.LICENSE.txt": "/static/js/2.d4f96d8d.chunk.js.LICENSE.txt",
     "static/media/Netflix_Logo_RGB.png": "/static/media/Netflix_Logo_RGB.8562b656.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f7969a42.js",
     "static/js/2.d4f96d8d.chunk.js",
-    "static/css/main.c9c44d79.chunk.css",
+    "static/css/main.0d281d21.chunk.css",
     "static/js/main.1200a353.chunk.js"
   ]
 }

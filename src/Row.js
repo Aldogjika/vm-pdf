@@ -9,20 +9,20 @@ function Row({ title, imgUrl, description }) {
   const [readMore, setReadMore] = useState(false);
   const [imgBackground, setImgBackground] = useState("");
 
-  useEffect(() => {
-    async function fetchData() {
-      const request = await axios.get(imgUrl); //IF WE HAVE A VARIABLE LIKE 'fetchUrl', THAT IS OUTSIDE OF BLOCK, WE HAVE DECLARE AT THE END 👇🏻
+  // useEffect(() => {
+  //   async function fetchData() {
+  //     const request = await axios.get(imgUrl); //IF WE HAVE A VARIABLE LIKE 'fetchUrl', THAT IS OUTSIDE OF BLOCK, WE HAVE DECLARE AT THE END 👇🏻
 
-      setImgBackground(
-        request.data.results[
-          Math.floor(Math.random() * request.data.results.length - 1)
-        ]
-      );
-      return request;
-    }
+  //     setImgBackground(
+  //       request.data.results[
+  //         Math.floor(Math.random() * request.data.results.length - 1)
+  //       ]
+  //     );
+  //     return request;
+  //   }
 
-    fetchData();
-  }, [imgUrl]);
+  //   fetchData();
+  // }, [imgUrl]);
 
   const handleClick = (status) => {
     if (readMore) {
@@ -38,7 +38,8 @@ function Row({ title, imgUrl, description }) {
       <div
         className="row__banner"
         style={{
-          backgroundImage: `url(${base_url}${imgBackground?.backdrop_path})`,
+          // backgroundImage: `url(${base_url}${imgBackground?.backdrop_path})`,
+          backgroundImage: `url(${imgUrl && imgUrl})`,
         }}
       >
         <div className="row__bannerOverlay"></div>
