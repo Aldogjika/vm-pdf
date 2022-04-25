@@ -3,6 +3,7 @@ import axios from "./axios";
 import "./Banner.css";
 import Pdf from "./assets/next.pdf";
 import { saveAs } from "file-saver";
+import headerImg from "./logo/images/header.png";
 
 const base_url = "http://image.tmdb.org/t/p/original";
 
@@ -39,7 +40,8 @@ function Banner({ fetchUrl }) {
       className="banner"
       style={{
         backgroundSize: "cover",
-        backgroundImage: `url(${base_url}${movie?.backdrop_path})`,
+        // backgroundImage: `url(${base_url}${movie?.backdrop_path})`,
+        backgroundImage: `url(${headerImg})`,
         backgroundPosition: "top center",
       }}
     >

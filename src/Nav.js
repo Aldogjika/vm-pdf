@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./Nav.css";
 import Logo from "./logo/Netflix_Logo_RGB.png";
-import NewLogo from "./logo/images/logo-2.png";
+import NewLogo from "./logo/images/logo-version-1.png";
 import Avatar from "./logo/avatar.png";
 
 function Nav() {
