@@ -1,31 +1,32 @@
 {
   "files": {
     "main.css": "/static/css/main.0d281d21.chunk.css",
-    "main.js": "/static/js/main.a482dafd.chunk.js",
-    "main.js.map": "/static/js/main.a482dafd.chunk.js.map",
+    "main.js": "/static/js/main.32156afe.chunk.js",
+    "main.js.map": "/static/js/main.32156afe.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f7969a42.js",
     "runtime-main.js.map": "/static/js/runtime-main.f7969a42.js.map",
-    "static/js/2.3848aa76.chunk.js": "/static/js/2.3848aa76.chunk.js",
-    "static/js/2.3848aa76.chunk.js.map": "/static/js/2.3848aa76.chunk.js.map",
+    "static/js/2.8fff18d3.chunk.js": "/static/js/2.8fff18d3.chunk.js",
+    "static/js/2.8fff18d3.chunk.js.map": "/static/js/2.8fff18d3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4cd47239d5dede7d06cfeeac7f0c7d96.js": "/precache-manifest.4cd47239d5dede7d06cfeeac7f0c7d96.js",
+    "precache-manifest.cb15ddeb964c8357b4d3df905acdf523.js": "/precache-manifest.cb15ddeb964c8357b4d3df905acdf523.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.0d281d21.chunk.css.map": "/static/css/main.0d281d21.chunk.css.map",
-    "static/js/2.3848aa76.chunk.js.LICENSE.txt": "/static/js/2.3848aa76.chunk.js.LICENSE.txt",
+    "static/js/2.8fff18d3.chunk.js.LICENSE.txt": "/static/js/2.8fff18d3.chunk.js.LICENSE.txt",
     "static/media/Netflix_Logo_RGB.png": "/static/media/Netflix_Logo_RGB.8562b656.png",
-    "static/media/logo-2.png": "/static/media/logo-2.a869752b.png",
+    "static/media/header.png": "/static/media/header.ed0ad1f1.png",
+    "static/media/logo-version-1.png": "/static/media/logo-version-1.437b3bac.png",
     "static/media/next.pdf": "/static/media/next.25e6941e.pdf",
-    "static/media/section-1.png": "/static/media/section-1.de0ac793.png",
-    "static/media/section-2.png": "/static/media/section-2.6d609d9c.png",
-    "static/media/section-3.png": "/static/media/section-3.f1deb77d.png",
+    "static/media/section-1.png": "/static/media/section-1.7528f4bc.png",
+    "static/media/section-2.png": "/static/media/section-2.42c492b2.png",
+    "static/media/section-3.png": "/static/media/section-3.8bb8c260.png",
     "static/media/section-4.jpg": "/static/media/section-4.de9d9e0d.jpg",
     "static/media/section-5.jpg": "/static/media/section-5.24eca641.jpg",
     "static/media/section-6.jpg": "/static/media/section-6.d8b898d3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f7969a42.js",
-    "static/js/2.3848aa76.chunk.js",
+    "static/js/2.8fff18d3.chunk.js",
     "static/css/main.0d281d21.chunk.css",
-    "static/js/main.a482dafd.chunk.js"
+    "static/js/main.32156afe.chunk.js"
   ]
 }

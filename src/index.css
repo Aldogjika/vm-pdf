@@ -1,13 +1,29 @@
+@font-face {
+  font-family: 'HelveticaRoman';
+  font-style: normal;
+  font-weight: normal;
+  src: local('HelveticaRoman'), url("./fonts/HelveticaNeue-Roman.otf") format('truetype');
+}
+
+@font-face {
+  font-family: 'HelveticaMedium';
+  font-style: normal;
+  font-weight: normal;
+  src: local('HelveticaMedium'), url("./fonts/HelveticaNeueMedium.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'HelveticaBold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('HelveticaBold'), url("./fonts/HelveticaNeueBold.ttf") format('truetype');
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: "HelveticaRoman";
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: "HelveticaRoman";
 }

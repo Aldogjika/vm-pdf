@@ -34,7 +34,7 @@ function Row({ title, imgUrl, description }) {
 
   return (
     <div className="row">
-      <h2>{title}</h2>
+      <p className="row__title">{title}</p>
       <div
         className="row__banner"
         style={{
@@ -51,10 +51,10 @@ function Row({ title, imgUrl, description }) {
       </div>
 
       {readMore && (
-        <h1
+        <p
           className="row__description"
           dangerouslySetInnerHTML={{ __html: description }}
-        ></h1>
+        ></p>
       )}
     </div>
   );
