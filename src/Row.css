@@ -96,9 +96,11 @@
   font-size: 1rem;
   padding-left: 2rem;
   padding-right: 2rem;
+  font-family: 'HelveticaRoman';
 }
 
 .row__title {
   font-family: 'HelveticaBold';
   font-size: 1.5rem;
+  color: #33ceb7;
 }

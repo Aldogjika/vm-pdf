@@ -5,9 +5,9 @@ import Row from "./Row";
 import Banner from "./Banner";
 import Nav from "./Nav";
 import sectionOneImg from "./logo/images/section-1.png";
-import sectionTwoImg from "./logo/images/section-2.png";
-import sectionThreeImg from "./logo/images/section-3.png";
-import sectionFourImg from "./logo/images/section-4.jpg";
+import sectionTwoImg from "./logo/images/Story-Telling.jpg";
+import sectionThreeImg from "./logo/images/Zielsetzung.jpg";
+import sectionFourImg from "./logo/images/handball.jpg";
 import sectionFiveImg from "./logo/images/section-5.jpg";
 import sectionSixImg from "./logo/images/section-6.jpg";
 

@@ -48,7 +48,8 @@ function Banner({ fetchUrl }) {
       <div className="banner__contents">
         <h1 className="banner__title">
           {/* {movie?.title || movie?.name || movie?.original_name} */}
-          Next-Gen Visual-Merchandising
+          Next<span className="banner__titleSpan">-</span>Gen <br />
+          Visual<span className="banner__titleSpan">-</span>Merchandising
         </h1>
 
         <div className="banner__buttons">
@@ -60,7 +61,7 @@ function Banner({ fetchUrl }) {
 
         <h1 className="banner__description">
           {/* {truncate(movie?.overview, 150)} */}
-          Hans-Jörg Hollenbach, Aldo Gjika, Kristi Nikolla
+          Hans-Jörg Hollenbach <br /> Aldo Gjika <br /> Kristi Nikolla
         </h1>
 
         <p className="banner__subDescription">© Alle Rechte vorbehalt</p>
