@@ -20,7 +20,8 @@
 }
 
 .banner__titleSpan {
-  color: #33ceb7;
+  /* color: #33ceb7; */
+  color: #fff;
   margin-left: 0.14em;
   margin-right: 0.14em;
 }

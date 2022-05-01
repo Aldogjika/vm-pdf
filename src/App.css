@@ -1,3 +1,7 @@
 .App {
   background-color: #1d1d1d;
 }
+
+.app__extraSpace {
+  height: 18px;
+}
