@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "./axios";
 import "./Banner.css";
-import Pdf from "./assets/next.pdf";
+import Pdf from "./assets/newpdf.pdf";
 import { saveAs } from "file-saver";
 import headerImg from "./logo/images/header.png";
 
